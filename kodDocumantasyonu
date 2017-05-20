@@ -1,0 +1,10 @@
+glade i arayuzu tasalamak icin kullaniyoruz. 
+raspbian da kurmak icin
+terminale
+
+sudo apt-get install glade
+
+yazmak gerek.
+
+main dosyasını aç ve çalıştır.S
+
